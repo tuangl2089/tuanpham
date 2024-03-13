@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\MainBasic.dll
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\MainBasic.pdb
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\TestMath.dll
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\TestMath.pdb
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\source\repos\MainBasic\MainBasic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\source\repos\MainBasic\MainBasic\obj\Debug\MainBasic.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MainBasic\MainBasic\obj\Debug\MainBasic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MainBasic\MainBasic\obj\Debug\MainBasic.csproj.CopyComplete
+C:\Users\Admin\source\repos\MainBasic\MainBasic\obj\Debug\MainBasic.dll
+C:\Users\Admin\source\repos\MainBasic\MainBasic\obj\Debug\MainBasic.pdb
